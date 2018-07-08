@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 07 Jul 2018 23:04:12 at https://www.enableds.com/products/ultramobile/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.enableds.com/products/ultramobile/index.html -O1 "C:\My Web Sites\pwa1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:05:24	Error: 	"Not Found" (404) at link https://www.enableds.com/products/ultramobile/ultra-menus.html (from https://www.enableds.com/products/ultramobile/navigations.html)
+23:05:42	Error: 	"Not Found" (404) at link https://www.enableds.com/products/ultramobile/page-contact.html (from https://www.enableds.com/products/ultramobile/page-system.html)
+23:05:42	Error: 	"Not Found" (404) at link https://www.enableds.com/products/ultramobile/www.enableds.com (from https://www.enableds.com/products/ultramobile/page-vcard.html)
+23:05:42	Error: 	"Not Found" (404) at link https://www.enableds.com/products/ultramobile/features.html (from https://www.enableds.com/products/ultramobile/media-project-1.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 30 seconds : 272 links scanned, 267 files written (9114052 bytes overall) [6431675 bytes received at 71463 bytes/sec], 4270396 bytes transferred using HTTP compression in 159 files, ratio 30%, 38.8 requests per connection
+(4 errors, 0 warnings, 0 messages)
